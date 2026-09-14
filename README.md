@@ -17,6 +17,7 @@ Both standard and Kac-scaled interactions are included.
 - [Dicke Operator Method with Kac-scaling](https://github.com/gbhanja/ERGO_FLUC_parallel_codes/tree/Dicke-Kac-operator-method)
 - [CS Operator Method](https://github.com/gbhanja/ERGO_FLUC_parallel_codes/tree/CS-operator-method)
 - [CS Operator Method with Kac-scaling](https://github.com/gbhanja/ERGO_FLUC_parallel_codes/tree/CS-Kac-operator-method)
+- [Dicke Excitation](https://github.com/gbhanja/Ergotropy_Fluctuation/tree/Dicke-excitation)
 
 ## Work Statistics:
 
