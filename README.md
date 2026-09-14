@@ -1,1 +1,1 @@
-Dicke Excitation
+Dicke Excitation for COHERENT/FOCK charger
