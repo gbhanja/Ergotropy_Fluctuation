@@ -1,1 +1,1 @@
-CS Excitation for COHERENT/FOCK charger
+CS Excitation for fully CHARGED charger
